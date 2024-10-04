@@ -1,2 +1,2 @@
-# flyergenerator
-Generates AI powered flyers for posting
+# namebadgegenerator
+Generates badges for the event

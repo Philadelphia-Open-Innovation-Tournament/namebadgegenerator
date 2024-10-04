@@ -1,0 +1,4 @@
+reportlab
+svglib
+Pillow
+cairosvg
